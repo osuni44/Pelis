@@ -34,13 +34,25 @@ http://archive.org/download/009_20200823/006.mp4
 http://archive.org/download/049_20200824/047.mp4
 
 #EXTINF:-1 ,DAZN 1
-http://rgvdh0nwjlgzeavuea5xxc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=24923&t=live&f=ts
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/loofty.m3u8?s=_NfuKbHnBegmpesK-_Dinw&e=1651153202
 
 #EXTINF:-1 ,BeinSport 
 http://5f011c7002235704dcac6b06396e53b4.spo.procaja.me:25461/skKbQrxJcY/6777416441/3931?h=6ea20ba44ca483a15e9ef4ca2776d049dcddd769&z=&i=46094
 
-#EXTINF:-1 ,M.Liga Campeones 1080
-http://5f011c7002235704dcac6b06396e53b4.lig.procaja.me:25461/skKbQrxJcY/6777416441/26316?h=6ea20ba44ca483a15e9ef4ca2776d049dcddd769&z=&i=46094
+#EXTINF:-1 ,La Liga latino
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=HmoGpXv7RUU169ythRZFAw&e=1651153755
+
+#EXTINF:-1 ,Deportes Latino
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=4Ng_KCiwtcJkPOCtcKWu0A&e=1651153930
+
+#EXTINF:-1 ,Deportes Latino1
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/5h6ykj.m3u8?s=HPlruwCpk0vDV2XK18m3Yw&e=1651154041
+
+#EXTINF:-1 ,Bar Tv
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/tekhw2v.m3u8?s=bCtUcOS3Udu2vk4Z2wvMPQ&e=1651153664
+
+#EXTINF:-1 ,M.Liga Campeones
+https://yypmahmmdjzijjex.wzcdn264.net:8443/hls/tq24aomq.m3u8?s=cKhNzjgLq6hcQ8Yx8emSDA&e=1651153548
 
 #EXTINF:-1 , la liga
 https://wigistream.to/embed/qpa8q5ydeozqp9
